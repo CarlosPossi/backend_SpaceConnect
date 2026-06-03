@@ -1,4 +1,4 @@
-# **🚀 Space Connect - Advanced Programming & Mobile DEV**
+# **🚀 Space Connect - Advanced Programming & Mobile DEV** - Back-end (API)
 
 API REST desenvolvida com Spring Boot para gerenciamento de Sistemas Monitorados, Sensores, Módulos Computacionais, Eventos Operacionais e Alertas Críticos.
 
